@@ -9,7 +9,7 @@
 #stop running script if anything returns an error (non-zero exit )
 set -e
 
-repo_url="https://github.com/steppovver/Steam-Deck.Mount-External-Drive/blob/main"
+repo_url="https://raw.githubusercontent.com/steppovver/Steam-Deck.Mount-External-Drive/main"
 repo_lib_dir="$repo_url/lib"
 
 tmp_dir="/tmp/scawp.SDMED.install"
